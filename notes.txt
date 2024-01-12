@@ -5,3 +5,11 @@ in context of flex box
     align-items: center;
 
     text-underline-offset: Adjust the distance between the baseline of text and its underline in a web page. 
+
+    .project-box-height{
+  height: 300px;
+}
+used this at line no 338 to decrease the height of project boxes by 90% to 300px, and added the class
+
+
+&#169; ---> copyright
