@@ -15,3 +15,5 @@ used this at line no 338 to decrease the height of project boxes by 90% to 300px
 &#169; ---> copyright.
 
 /* justify-content: space-around; */ -----> Removed justify content from artcle at 305 to remove the glitch in experience section 
+
+I have changed the visual of (Experience into Skills but the code part is unchanged)
